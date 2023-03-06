@@ -1,5 +1,5 @@
 # Hi, I'm Malo 👋
-I'm a passionate software developer with [Number of years] years of experience in developing innovative and impactful software solutions. I have expertise in [List of technologies you specialize in].
+I'm a passionate Full Stack Software Developer🚀 having an experience of building Web and Mobile applications with TypeScript / Reactjs / Next.js / Nodejs / React Native and some other cool libraries and frameworks.
 
 ## My Skills
 - TypeScript
