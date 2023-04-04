@@ -14,6 +14,6 @@ I'm a passionate Full Stack Software Developer🚀 having an experience of build
 - Expert System: Expert system for propositional calculus using a backward-chaining inference engine to evaluate rules and facts with "AND", "OR", "XOR" conditions and negation
 - Inception-of-Things: This project aims to introduce the basics of Kubernetes by setting up virtual environments using Vagrant, K3s, and K3d with Argo CD.
 ## Get in Touch
-- Personal website: https://www.malobouce.com/fr
+- Personal website: https://www.malobouce.com
 - LinkedIn: https://www.linkedin.com/in/malo-bouc%C3%A9/
 - Email: ma.sithis@gmail.com
