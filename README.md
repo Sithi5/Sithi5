@@ -7,6 +7,7 @@ I'm a passionate Full Stack Software Developer🚀 having an experience of build
 - Python
 - Next.js
 - React Native
+- Nest.js
 - C
 ## My Projects
 - Mangalib: MangaLib provides a personal manga library management solution, enabling users to efficiently store and search through their manga collection.
