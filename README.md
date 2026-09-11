@@ -17,4 +17,3 @@ I'm a passionate Full Stack Software Developer🚀 having an experience of build
 ## Get in Touch
 - Personal website: https://www.malobouce.com
 - LinkedIn: https://www.linkedin.com/in/malo-bouc%C3%A9/
-- Email: ma.sithis@gmail.com
